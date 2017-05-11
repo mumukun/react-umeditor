@@ -1,7 +1,5 @@
-# react-umeditor
+# qm-react-editor
 
-[![Version](https://img.shields.io/npm/v/react-umeditor.svg)](https://www.npmjs.com/package/react-umeditor)
-[![Downloads](https://img.shields.io/npm/dt/react-umeditor.svg)](https://www.npmjs.com/package/react-umeditor)
 
 React Editor like [Umeditor](https://github.com/fex-team/umeditor)
 
@@ -163,11 +161,4 @@ Support icons, As fllow:
 ## Contribute
 
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into master! If you can, please make sure the editor fully works before sending the PR, as that will help speed up the process.
-
-See more [document](https://github.com/liuhong1happy/react-umeditor/blob/master/docs/contribute.md)
-
-## Concat
-
-Email: [liuhong1.happy@163.com](mailto:liuhong1.happy@163.com)
-
-QQ Group: 247978846
+ 

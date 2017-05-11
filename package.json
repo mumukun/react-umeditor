@@ -1,7 +1,7 @@
 {
-  "name": "qm-react-editor",
-  "version": "1.0.0-rc1",
-  "description": "QianMo React Editor",
+  "name": "qm-rc-editor",
+  "version": "1.0.0-rc4",
+  "description": "QianMo React Editor Component",
   "main": "lib/editor.js",
   "files": [
     "lib",
